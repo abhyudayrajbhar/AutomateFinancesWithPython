@@ -1,0 +1,151 @@
+Date,Details,Amount,Currency,Debit/Credit,Status
+23-Feb-24,Google Ads,806.59,USD,Debit,PENDING
+03-Jan-24,Delta Airlines,"2,962.59",USD,Debit,PENDING
+27-Feb-24,Delta Airlines,971.97,USD,Credit,SETTLED
+20-May-24,Amazon,696.2,USD,Debit,PENDING
+20-Feb-24,Adidas,88.93,USD,Credit,FAILED
+24-Apr-24,Apple Store,"1,643.98",USD,Credit,SETTLED
+21-Apr-24,Facebook Ads,"4,805.57",USD,Debit,PENDING
+17-Apr-24,Netflix,"3,427.86",USD,Debit,FAILED
+28-Apr-24,Google Ads,486.63,USD,Credit,SETTLED
+13-Mar-24,Shell Gas,"3,399.09",USD,Debit,SETTLED
+31-Jan-24,CVS Pharmacy,391.25,USD,Debit,PENDING
+13-Jan-24,Uber,"2,517.73",USD,Debit,FAILED
+03-Mar-24,Home Depot,601.97,USD,Debit,SETTLED
+25-Mar-24,Facebook Ads,"3,389.90",USD,Debit,SETTLED
+16-Mar-24,Facebook Ads,"3,836.79",USD,Credit,SETTLED
+13-Feb-24,Facebook Ads,"1,690.00",USD,Credit,SETTLED
+22-May-24,CVS Pharmacy,"1,326.57",USD,Debit,SETTLED
+15-May-24,Costco,"1,936.69",USD,Credit,FAILED
+07-May-24,McDonald's,163.46,USD,Credit,SETTLED
+02-Jan-24,Southwest Airlines,"3,785.11",USD,Credit,FAILED
+12-Jan-24,Domino's,"3,634.98",USD,Debit,FAILED
+20-Feb-24,Facebook Ads,"4,041.21",USD,Debit,FAILED
+01-Feb-24,Walmart,"1,607.36",USD,Debit,FAILED
+25-Apr-24,Amazon,"3,271.47",USD,Credit,SETTLED
+08-Jun-24,McDonald's,"1,916.36",USD,Credit,PENDING
+17-Mar-24,Target,929.73,USD,Credit,PENDING
+22-Jun-24,Google Ads,279.85,USD,Debit,PENDING
+27-May-24,Delta Airlines,669.23,USD,Debit,FAILED
+06-Mar-24,Subway,"1,251.37",USD,Debit,SETTLED
+04-Jan-24,Domino's,"1,125.28",USD,Debit,PENDING
+07-Jun-24,Shell Gas,"1,896.75",USD,Credit,FAILED
+03-Feb-24,Marriott,868.7,USD,Credit,FAILED
+13-Feb-24,Domino's,"2,098.09",USD,Credit,SETTLED
+06-Jan-24,Amazon,"3,525.82",USD,Debit,SETTLED
+09-Jan-24,Costco,"1,942.40",USD,Debit,PENDING
+11-Apr-24,Airbnb,218.64,USD,Credit,SETTLED
+27-Jun-24,Starbucks,"2,270.34",USD,Debit,PENDING
+17-Jan-24,Adidas,367.98,USD,Credit,PENDING
+28-May-24,Amazon,"1,684.29",USD,Debit,PENDING
+02-May-24,McDonald's,"2,737.06",USD,Credit,PENDING
+20-Feb-24,eBay,"2,949.43",USD,Debit,FAILED
+15-Feb-24,Marriott,279.12,USD,Credit,SETTLED
+21-Jun-24,Hilton Hotels,"1,989.49",USD,Debit,PENDING
+25-Apr-24,CVS Pharmacy,"4,802.18",USD,Debit,SETTLED
+13-Mar-24,Airbnb,916.87,USD,Debit,FAILED
+24-Mar-24,Shell Gas,"2,989.61",USD,Debit,FAILED
+26-May-24,Domino's,"2,346.70",USD,Debit,FAILED
+03-Jan-24,Starbucks,"1,582.41",USD,Credit,SETTLED
+01-Jun-24,eBay,"4,663.55",USD,Credit,PENDING
+21-Apr-24,Domino's,"2,328.49",USD,Credit,FAILED
+07-Jan-24,Costco,"3,507.74",USD,Debit,PENDING
+08-May-24,Spotify,84.51,USD,Debit,SETTLED
+08-Mar-24,Amazon,823.05,USD,Credit,PENDING
+10-Jun-24,Starbucks,"3,686.43",USD,Debit,FAILED
+10-May-24,Domino's,975.45,USD,Credit,FAILED
+15-Mar-24,Adidas,"4,278.88",USD,Debit,PENDING
+28-Jun-24,Walmart,"4,455.48",USD,Debit,FAILED
+29-Apr-24,Lyft,"3,685.90",USD,Debit,FAILED
+24-May-24,Apple Store,"3,582.24",USD,Debit,PENDING
+20-Jun-24,Google Ads,"4,481.59",USD,Credit,FAILED
+13-Mar-24,McDonald's,"1,674.52",USD,Debit,FAILED
+27-Feb-24,Google Ads,"2,865.61",USD,Debit,FAILED
+27-Mar-24,Apple Store,"2,041.58",USD,Credit,PENDING
+09-Feb-24,Best Buy,"4,917.92",USD,Debit,FAILED
+25-Jan-24,eBay,"4,617.99",USD,Credit,PENDING
+13-Jun-24,McDonald's,"2,339.88",USD,Credit,FAILED
+29-Feb-24,Hilton Hotels,"3,453.14",USD,Debit,FAILED
+31-May-24,Apple Store,787.45,USD,Debit,SETTLED
+26-May-24,Nike,446.86,USD,Debit,SETTLED
+16-Jan-24,Marriott,"3,819.71",USD,Debit,PENDING
+11-Feb-24,Facebook Ads,"4,966.58",USD,Debit,PENDING
+18-Feb-24,Hilton Hotels,"2,661.33",USD,Debit,FAILED
+17-May-24,McDonald's,"2,497.70",USD,Credit,PENDING
+14-Feb-24,Southwest Airlines,"4,024.67",USD,Credit,SETTLED
+15-May-24,Costco,"2,529.47",USD,Credit,PENDING
+15-Mar-24,Facebook Ads,270.98,USD,Credit,FAILED
+17-May-24,Nike,"1,758.25",USD,Credit,FAILED
+29-Jan-24,Costco,698.06,USD,Credit,FAILED
+16-Jun-24,Amazon,578.21,USD,Credit,SETTLED
+17-Feb-24,Starbucks,"3,948.61",USD,Credit,PENDING
+31-Mar-24,Hilton Hotels,"2,247.59",USD,Credit,PENDING
+14-Jun-24,Uber,"1,697.32",USD,Credit,SETTLED
+09-Apr-24,Target,458.54,USD,Debit,PENDING
+26-Mar-24,Google Ads,"3,710.91",USD,Debit,PENDING
+28-Feb-24,Nike,"3,446.67",USD,Credit,PENDING
+10-Apr-24,Subway,"2,308.44",USD,Debit,PENDING
+02-Apr-24,CVS Pharmacy,"4,834.92",USD,Credit,FAILED
+09-Jun-24,Subway,"2,513.20",USD,Credit,FAILED
+03-Mar-24,Amazon,"2,361.65",USD,Debit,PENDING
+16-Feb-24,Domino's,588.41,USD,Credit,SETTLED
+16-Jun-24,Amazon,"3,016.69",USD,Debit,SETTLED
+27-Mar-24,Shell Gas,"1,264.91",USD,Credit,SETTLED
+31-Mar-24,Home Depot,"4,146.16",USD,Credit,SETTLED
+05-Apr-24,Domino's,826.37,USD,Credit,PENDING
+15-Apr-24,Adidas,"2,717.23",USD,Credit,FAILED
+03-Feb-24,Netflix,590.25,USD,Credit,PENDING
+03-Jan-24,Delta Airlines,"3,354.78",USD,Credit,SETTLED
+24-Jun-24,McDonald's,"1,216.09",USD,Debit,FAILED
+17-Jun-24,Shell Gas,"1,010.33",USD,Credit,FAILED
+23-Jan-24,Shell Gas,"3,423.48",USD,Credit,FAILED
+15-Apr-24,Home Depot,"1,204.95",USD,Credit,SETTLED
+28-Apr-24,Airbnb,"4,154.42",USD,Credit,SETTLED
+11-Feb-24,Southwest Airlines,"4,827.65",USD,Credit,SETTLED
+31-May-24,McDonald's,"2,484.65",USD,Debit,FAILED
+03-Mar-24,Nike,"1,387.33",USD,Debit,PENDING
+11-Feb-24,Uber,"3,276.31",USD,Credit,SETTLED
+30-Jan-24,Marriott,695.69,USD,Debit,FAILED
+29-May-24,Lyft,"1,797.12",USD,Credit,PENDING
+12-Mar-24,eBay,742.64,USD,Debit,PENDING
+26-Jan-24,Uber,"2,913.18",USD,Debit,FAILED
+08-Mar-24,Target,"4,801.94",USD,Debit,SETTLED
+05-Jun-24,Apple Store,"1,365.44",USD,Credit,FAILED
+28-Apr-24,Starbucks,"2,280.84",USD,Debit,SETTLED
+28-May-24,Apple Store,"3,519.77",USD,Credit,SETTLED
+24-Feb-24,Shell Gas,"1,881.14",USD,Debit,FAILED
+27-Jun-24,Marriott,"4,677.63",USD,Credit,PENDING
+15-May-24,Adidas,85.72,USD,Debit,SETTLED
+27-Jan-24,Facebook Ads,"1,024.22",USD,Debit,SETTLED
+23-May-24,Nike,"2,493.37",USD,Debit,PENDING
+29-Apr-24,Domino's,481.16,USD,Debit,PENDING
+11-Feb-24,Costco,"1,354.16",USD,Debit,SETTLED
+28-Jan-24,Delta Airlines,"1,596.26",USD,Debit,FAILED
+04-Jan-24,Target,"4,283.93",USD,Credit,FAILED
+02-May-24,Hilton Hotels,"2,167.89",USD,Debit,SETTLED
+20-Mar-24,Spotify,"1,162.11",USD,Debit,PENDING
+20-Jun-24,Walmart,"4,456.92",USD,Debit,FAILED
+24-Jan-24,Facebook Ads,736.87,USD,Credit,FAILED
+15-Jun-24,Shell Gas,"3,556.74",USD,Debit,SETTLED
+27-Mar-24,Subway,997.63,USD,Debit,SETTLED
+23-Feb-24,Lyft,"2,571.22",USD,Credit,PENDING
+26-Feb-24,Starbucks,"2,919.68",USD,Credit,PENDING
+14-Feb-24,Shell Gas,"3,045.31",USD,Debit,PENDING
+21-May-24,Adidas,"4,024.79",USD,Credit,PENDING
+13-Jan-24,Costco,"3,163.95",USD,Credit,FAILED
+29-May-24,Marriott,"2,013.94",USD,Credit,PENDING
+29-Jun-24,Shell Gas,553.32,USD,Debit,PENDING
+14-Feb-24,Nike,480.93,USD,Debit,PENDING
+26-Apr-24,Domino's,"1,612.83",USD,Credit,PENDING
+26-Jan-24,McDonald's,"3,990.55",USD,Debit,PENDING
+18-Mar-24,Nike,46.42,USD,Credit,FAILED
+22-May-24,Nike,824.9,USD,Credit,PENDING
+12-Mar-24,eBay,"1,000.00",USD,Credit,PENDING
+05-Mar-24,Shell Gas,"3,173.50",USD,Debit,FAILED
+27-Jan-24,Best Buy,"2,778.59",USD,Debit,PENDING
+23-Feb-24,Apple Store,"2,679.28",USD,Debit,SETTLED
+10-May-24,Apple Store,"4,781.95",USD,Debit,SETTLED
+02-Apr-24,Hilton Hotels,717.51,USD,Debit,SETTLED
+28-May-24,Nike,"4,035.63",USD,Debit,PENDING
+06-Mar-24,Amazon,76.25,USD,Credit,SETTLED
+23-Mar-24,Apple Store,"3,678.23",USD,Credit,PENDING
