@@ -1,0 +1,26 @@
+{
+  "Uncategorized": [],
+  "Advertising": ["Google Ads", "Facebook Ads"],
+  "Entertainment": ["Netflix", "Spotify"],
+  "Utilities": ["CVS Pharmacy", "Home Depot", "Shell Gas"],
+  "Travel": [
+    "Delta Airlines",
+    "Uber",
+    "Airbnb",
+    "Hilton Hotels",
+    "Lyft",
+    "Marriott"
+  ],
+  "Food": ["Domino's", "Subway", "Starbucks", "McDonald's"],
+  "Shopping": [
+    "Amazon",
+    "Walmart",
+    "Costco",
+    "Apple Store",
+    "eBay",
+    "Adidas",
+    "Best Buy",
+    "Nike",
+    "Target"
+  ]
+}
