@@ -38,7 +38,7 @@ Dynamic, interactive charts to better understand your spending patterns.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AutomateFinancesWithPython.git
+git clone https://github.com/abhyudayrajbhar/AutomateFinancesWithPython.git
 cd AutomateFinancesWithPython
 ```
 ### 2. Install Dependencies
